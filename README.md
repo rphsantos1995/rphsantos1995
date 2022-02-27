@@ -12,10 +12,10 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&theme=tokyonight&show_icons=true&count_private=true)" />
+  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&theme=tokyonight&show_icons=true&count_private=true)" />
   
 </a>
 
