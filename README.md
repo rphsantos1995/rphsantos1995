@@ -28,26 +28,26 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/squelize-informational?style=for-the-badge&logo=squelize&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=green&color=black&labelColor=grey)
+![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=Node.js&logoColor=green&color=black&labelColor=grey)
+![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=greyblue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=blue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/squelize-informational?style=for-the-badge&logo=Sequelize&logoColor=blue&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/mocha-informational?style=for-the-badge&logo=mocha&logoColor=white&color=black&labelColor=grey)
-
+![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=lightorange&color=black&labelColor=grey)
+  
 </div>
 
   <h4 align="center">FRONTEND</h4>
 
 <div align="center">
 
-![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=white&color=black&labelColor=grey)  
-![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black&labelColor=grey)
+![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=blue&color=black&labelColor=grey)  
+![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=black&labelColor=grey)
+![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=purple&color=black&labelColor=grey)
+![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=lightblue&color=black&labelColor=grey)
 
 </div>
 
@@ -55,9 +55,9 @@
   <h4>TESTS</h4>
   
 
-![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer5&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha5&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=darkred&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=oceangreen&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=lightbrown&color=black&labelColor=grey)
 
 </div>
 
