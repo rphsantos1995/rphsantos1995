@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/badge/-StackOverFlow-orange"/></a>
 
 [![Linkedin: Raphael](https://img.shields.io/badge/-Raphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rphsantos7/)](https://www.linkedin.com/in/rphsantos7/)
+
+<a href="https://stackoverflow.com/users/12899875/rphsantos?tab=profile" target="_blank"/>
+<img src="https://img.shields.io/badge/padronizar%20links-informational?style=for-the-badge&logo=express&logoColor=green&color=black&labelColor=grey"/></a>
 <br>
 <br>
 <br>
@@ -44,10 +47,12 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black&labelColor=grey)
-![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=blue&color=black&labelColor=grey)  
+![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=blue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=purple&color=black&labelColor=grey)  
 ![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=purple&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=lightblue&color=black&labelColor=grey)
+
 
 </div>
 
@@ -63,7 +68,9 @@
 
 <div align="center">
   <h4>DEVOPS</h4>
-  
+
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=lightblue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/GitHub%20Actions-informational?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=black&labelColor=grey)
 
 </div>
 
