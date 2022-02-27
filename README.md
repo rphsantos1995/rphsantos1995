@@ -1,7 +1,9 @@
 <h8>My name is Raphael Pereira, i'm happy to see you here :)
 <br></br>
-<p><em>Software Development Student at <a target="_blank" href="https://www.betrybe.com/">Trybe</a><img align='left' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" height="70" width="70"> 
+<p><em>Software Development Student at <a target="_blank" href="https://www.betrybe.com/">Trybe</a>
 </em></p>
+
+<!-- <img align='left' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="150">  -->
 
 <a href="https://stackoverflow.com/users/12899875/rphsantos?tab=profile" target="_blank"/>
 <img src="https://img.shields.io/badge/-StackOverFlow-orange"/></a>
@@ -22,12 +24,11 @@
 
 <h2 align="center">🧰 Technologies & Tools</h2>
 
-<h4>backEnd</h4>
+<h4 align="center">BACKEND</h4>
 
 <div align="center">
   
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=grey)
@@ -35,16 +36,36 @@
 ![](https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/mocha-informational?style=for-the-badge&logo=mocha&logoColor=white&color=black&labelColor=grey)
-  
+
 </div>
 
-<h4>frontEnd</h4>
+  <h4 align="center">FRONTEND</h4>
 
-![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=purple&labelColor=grey)
+<div align="center">
 
+![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=white&color=black&labelColor=grey)  
+![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=white&color=black&labelColor=grey)
 
+</div>
 
+<div align="center">
+  <h4>TESTS</h4>
+  
 
+![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer5&logoColor=white&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha5&logoColor=white&color=black&labelColor=grey)
+
+</div>
+
+<div align="center">
+  <h4>DEVOPS</h4>
+  
+
+</div>
 
 
 
