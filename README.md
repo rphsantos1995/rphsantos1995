@@ -1,8 +1,8 @@
-<h2>I'm happy to see you here :) <img src="https://tenor.com/view/smile-emoji-emoji-smile-haha-hahaha-lol-gif-3517849338761768900" width="30px"></h2>
+<h2 align-text="center">I'm happy to see you here!<div><img align="left" src="https://media.giphy.com/media/1gWhPMqRUKL1F5PIty/giphy.gif" width="70px"></div></h2>
 
 <p>My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. I'm currenly studying
 <em>Software Development at <a target="_blank" href="https://www.betrybe.com/">Trybe.</a>
-</em> And seeking to develop good features that make people's life easier</p>
+</em> And seeking to develop good features that make people's life easier.</p>
 You can find me on:
 
 <br/>
@@ -39,7 +39,6 @@ You can find me on:
 </div>
 
   <h5 align="center">FRONTEND</h5>
-  
 <div align="center">  
 
 ![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black&labelColor=grey)
@@ -52,7 +51,6 @@ You can find me on:
 </div>
 
   <h5 align="center">TESTS</h5>
-  
 <div align="center">
   
 ![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=darkred&color=black&labelColor=grey)
