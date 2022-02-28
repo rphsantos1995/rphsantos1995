@@ -16,20 +16,41 @@
 <br>
 <br>
 
+## &#x1f4c8; GitHub Stats
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="460" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>-->
+<!-- Status card-->
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="460" align="center" src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&theme=tokyonight&show_icons=true&count_private=true)" />
+-->
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></td>
+  </tr>
+</table>
+
+
+
+<a href="https://github.com/rphsantos1995/backend-playground-trybe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/rphsantos1995/rphsantos1995.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 
 
 
 <h2 align="center">🧰 Technologies & Tools</h2>
 
-<h4 align="center">BACKEND</h4>
+<h5 align="center">BACKEND</h5>
 
-<div align="center">
+<div  align="center">
   
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=green&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=Node.js&logoColor=green&color=black&labelColor=grey)
@@ -38,11 +59,11 @@
 ![](https://img.shields.io/badge/squelize-informational?style=for-the-badge&logo=Sequelize&logoColor=blue&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=lightorange&color=black&labelColor=grey)
-  
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=lightblue&color=black&labelColor=grey)
+
 </div>
 
-  <h4 align="center">FRONTEND</h4>
+  <h5 align="center">FRONTEND</h5>
 
 <div align="center">
 
@@ -57,24 +78,14 @@
 </div>
 
 <div align="center">
-  <h4>TESTS</h4>
   
-
+  <h5>TESTS</h5>
+  
 ![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=darkred&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=oceangreen&color=black&labelColor=grey)
 ![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=lightbrown&color=black&labelColor=grey)
 
 </div>
-
-<div align="center">
-  <h4>DEVOPS</h4>
-
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=lightblue&color=black&labelColor=grey)
-![](https://img.shields.io/badge/GitHub%20Actions-informational?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=black&labelColor=grey)
-
-</div>
-
-
 
 <!--START_SECTION:waka-->
 
