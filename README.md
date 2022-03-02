@@ -18,52 +18,52 @@ You can find me on:
 <img src="https://img.shields.io/badge/Instagram-informational?style=plastic&logo=Instagram&logoColor=white&color=e4405f&labelColor=e4405f"/></a>
 
 <br>
-<h2 align="center">🧰 Technologies & Tools</h2>
+<h2 align="left">🧰 Technologies & Tools</h2>
 
-<p align="center"/> Some technologies i'm studying and working with in the past 12 months
+<p align="left"/> Some technologies i'm studying and working with in the past 12 months
 
-  <h5 align="center">BACKEND</h5>
+  <h5 align="left">BACKEND</h5>
   
-<div align="center">  
+<div align="left">  
 
-![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=green&color=black&labelColor=grey)
-![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=Node.js&logoColor=green&color=black&labelColor=grey)
-![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=greyblue&color=black&labelColor=grey)
-![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=blue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=green&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/node-informational?style=for-the-badge&logo=Node.js&logoColor=green&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=greyblue&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=blue&color=grey&labelColor=grey)
 </br>
-![](https://img.shields.io/badge/squelize-informational?style=for-the-badge&logo=Sequelize&logoColor=blue&color=black&labelColor=grey)
-![](https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=black&labelColor=grey)
-![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=lightblue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/squelize-informational?style=for-the-badge&logo=Sequelize&logoColor=blue&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=lightgreen&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=lightblue&color=grey&labelColor=grey)
 
 </div>
 
-  <h5 align="center">FRONTEND</h5>
-<div align="center">  
+  <h5 align="left">FRONTEND</h5>
+<div align="left">  
 
-![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black&labelColor=grey)
-![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=blue&color=black&labelColor=grey)
-![](https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=purple&color=black&labelColor=grey)  
-![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=black&labelColor=grey)
-![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=purple&color=black&labelColor=grey)
-![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=lightblue&color=black&labelColor=grey)
+![](https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=blue&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=purple&color=grey&labelColor=grey)  
+![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/redux-informational?style=for-the-badge&logo=redux&logoColor=purple&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=lightblue&color=grey&labelColor=grey)
 
 </div>
 
-  <h5 align="center">TESTS</h5>
-<div align="center">
+  <h5 align="left">TESTS</h5>
+<div align="left">
   
-![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=darkred&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=oceangreen&color=black&labelColor=grey)
-![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=lightbrown&color=black&labelColor=grey)
+![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=darkred&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/Puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=oceangreen&color=grey&labelColor=grey)
+![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=lightbrown&color=grey&labelColor=grey)
   
 </div>
 <div>
 <p></p>
 </div>
-<h2 align="center">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -72,10 +72,10 @@ You can find me on:
     <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a target="_blank" href="https://github.com/rphsantos1995/rphsantos1995.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
 </div>
