@@ -73,10 +73,10 @@ You can find me on:
 </a>
 </div>
 <a target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a target="_blank" href="https://github.com/rphsantos1995/rphsantos1995.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
 
