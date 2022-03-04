@@ -2,7 +2,7 @@
 
 <p>My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. I'm currenly studying
 <em>Software Development at <a target="_blank" href="https://www.betrybe.com/">Trybe.</a>
-</em> And seeking to develop good features that make people's life easier.</p>
+</em> And seeking to dive deeper into the development world.</p>
 You can find me on:
 
 <br/>
@@ -12,8 +12,6 @@ You can find me on:
 <a href="https://www.linkedin.com/in/rphsantos7/" target="_blank"/>
 <img src="https://img.shields.io/badge/Linkedin-informational?style=plastic&logo=LinkedIn&logoColor=white&color=blue&labelColor=blue"/></a>
 <br/>
-<a href="https://www.codewars.com/users/rphsantos7%20" target="_blank"/>
-<img src="https://img.shields.io/badge/Codewars-informational?style=plastic&logo=Codewars&logoColor=white&color=darkred&labelColor=darkred"/></a>
 <a href="https://www.instagram.com/rphsantos7/" target="_blank"/>
 <img src="https://img.shields.io/badge/Instagram-informational?style=plastic&logo=Instagram&logoColor=white&color=e4405f&labelColor=e4405f"/></a>
 
