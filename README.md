@@ -1,8 +1,6 @@
 <h2 align-text="center">I'm happy to see you here!<div><img align="left" src="https://media.giphy.com/media/1gWhPMqRUKL1F5PIty/giphy.gif" width="70px"></div></h2>
 
-<p>My name is Raphael Pereira. 
-I'm located in Rio de Janeiro, Brazil. 
-Interest in building scalable applications with Node, backend web development and in a near future, i hope to dive into DevOps.
+My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. i have Interest in building scalable applications with Node, backend web development and hope to dive into DevOps in the near future.
 
 >I like to get rid of manual tasks.
   
