@@ -1,19 +1,30 @@
 <h2 align-text="center">I'm happy to see you here!<div><img align="left" src="https://media.giphy.com/media/1gWhPMqRUKL1F5PIty/giphy.gif" width="70px"></div></h2>
 
-<p>My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. I'm currenly studying
-<em>Software Development at <a target="_blank" href="https://www.betrybe.com/">Trybe.</a>
-</em> And seeking to dive deeper into the development world.</p>
-You can find me on:
+<p>My name is Raphael Pereira. 
+I'm located in Rio de Janeiro, Brazil. 
+Interest in building scalable applications with Node, backend web development and in a close future dive into DevOps.
 
+>I like to get rid of manual tasks.
+  
+- 🌱 Currently studying Node, Express, Typescript, Linux.
+- 🚀 **2022 Goals:** learn Docker.
+
+You can find me on:
 <br/>
 <a href="https://stackoverflow.com/users/12899875/rphsantos?tab=profile" target="_blank"/>
-<img src="https://img.shields.io/badge/stackOverFlow-informational?style=plastic&logo=Stack%20Overflow&logoColor=white&color=orange&labelColor=orange"/></a>
-
+  <img src="https://img.shields.io/badge/stackOverFlow-informational?style=plastic&logo=Stack%20Overflow&logoColor=white&color=orange&labelColor=orange"/>
+</a>
 <a href="https://www.linkedin.com/in/rphsantos7/" target="_blank"/>
-<img src="https://img.shields.io/badge/Linkedin-informational?style=plastic&logo=LinkedIn&logoColor=white&color=blue&labelColor=blue"/></a>
+  <img src="https://img.shields.io/badge/Linkedin-informational?style=plastic&logo=LinkedIn&logoColor=white&color=blue&labelColor=blue"/>
+ </a>
 <br/>
 <a href="https://www.instagram.com/rphsantos7/" target="_blank"/>
-<img src="https://img.shields.io/badge/Instagram-informational?style=plastic&logo=Instagram&logoColor=white&color=e4405f&labelColor=e4405f"/></a>
+  <img src="https://img.shields.io/badge/Instagram-informational?style=plastic&logo=Instagram&logoColor=white&color=e4405f&labelColor=e4405f"/>
+</a>
+<a href="mailto:rph.santos@outlook.com?subject=[GitHub]" target="_blank"/>
+  <img src="https://img.shields.io/badge/Outlook-informational?style=plastic&logo=Microsoft Outlook&logoColor=white&color=0078D4&labelColor=0078D4"/>
+</a>
+
 
 <br>
 <h2 align="left">🧰 Technologies & Tools</h2>
