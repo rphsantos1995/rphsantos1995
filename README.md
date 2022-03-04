@@ -59,11 +59,10 @@ You can find me on:
 <div>
 <p></p>
 </div>
+
 <h2 align="left">GitHub Stats</h2>
 
-
-
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
