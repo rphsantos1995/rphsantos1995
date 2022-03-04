@@ -2,7 +2,7 @@
 
 <p>My name is Raphael Pereira. 
 I'm located in Rio de Janeiro, Brazil. 
-Interest in building scalable applications with Node, backend web development and in a close future dive into DevOps.
+Interest in building scalable applications with Node, backend web development and in a close future, dive into DevOps.
 
 >I like to get rid of manual tasks.
   
@@ -72,7 +72,7 @@ You can find me on:
 <h2 align="left">GitHub Stats</h2>
 
 <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&card_width=250&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&hide_rank=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
