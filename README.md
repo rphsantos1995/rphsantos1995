@@ -65,19 +65,20 @@ You can find me on:
 ![](https://img.shields.io/badge/Mocha-informational?style=for-the-badge&logo=mocha&logoColor=lightbrown&color=grey&labelColor=grey)
   
 </div>
-<div>
-<p></p>
-</div>
+
+
+
 
 <h2 align="left">GitHub Stats</h2>
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&card_width=250&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&hide_rank=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+<div>
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&hide_rank=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</div>
 <!--
 <a align="center" target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
