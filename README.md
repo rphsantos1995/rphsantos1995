@@ -24,8 +24,6 @@ You can find me on:
 <a href="mailto:rph.santos@outlook.com?subject=[GitHub]" target="_blank"/>
   <img src="https://img.shields.io/badge/Outlook-informational?style=plastic&logo=Microsoft Outlook&logoColor=white&color=0078D4&labelColor=0078D4"/>
 </a>
-
-
 <br>
 <h2 align="left">🧰 Technologies & Tools</h2>
 
