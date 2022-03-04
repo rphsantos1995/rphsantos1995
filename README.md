@@ -2,7 +2,7 @@
 
 <p>My name is Raphael Pereira. 
 I'm located in Rio de Janeiro, Brazil. 
-Interest in building scalable applications with Node, backend web development and in a close future, dive into DevOps.
+Interest in building scalable applications with Node, backend web development and in a near future, i hope to dive into DevOps.
 
 >I like to get rid of manual tasks.
   
