@@ -63,20 +63,20 @@ You can find me on:
 </div>
 <h2 align="left">GitHub Stats</h2>
 
-<div align="left">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,rust,css,go,python,shell,objective-c,assembly&langs_count=3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </div>
-<a target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a align="center" target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a target="_blank" href="https://github.com/rphsantos1995/rphsantos1995.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a align="center" target="_blank" href="https://github.com/rphsantos1995/rphsantos1995.github.io">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   
 
