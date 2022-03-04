@@ -69,13 +69,14 @@ You can find me on:
     <img src="https://github-readme-stats.vercel.app/api?username=rphsantos1995&show_icons=true&hide_rank=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<!--
 <a align="center" target="_blank" href="https://github.com/rphsantos1995/backend-playground-trybe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=backend-playground-trybe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a align="center" target="_blank" href="https://github.com/rphsantos1995/rphsantos1995.github.io">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rphsantos1995&repo=rphsantos1995.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+-->
   
 
 </br>
