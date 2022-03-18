@@ -1,6 +1,6 @@
 <h2 align-text="center">I'm happy to see you here!<div><img align="left" src="https://media.giphy.com/media/1gWhPMqRUKL1F5PIty/giphy.gif" width="70px"></div></h2>
 
-My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. i have Interest in building scalable applications with Node, backend web development and hope to dive into DevOps in the near future.
+My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil. I have interest in building scalable applications with Node, backend web development and open for full stack jobs.
 
 - 🌱 Currently studying Node, Express, Typescript, Linux.
 - 🚀 **2022 Goals:** learn Docker.
