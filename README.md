@@ -1,16 +1,15 @@
 
- <h2 align-text="center" id="geeks">I'm happy to see you here!<div><img align="left" src="https://media.giphy.com/media/1gWhPMqRUKL1F5PIty/giphy.gif" width="70px"></div></h2>
+ <h2 align-text="center">I'm happy to see you here!</h2>
 
-  My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil.
-
-  </br>
+</h4>My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil.
+</br>
+</br>
 
   About me:
-
   - 📜 Graduated in Production engineering
   - 🌱 Currently working with: Node, Express, Typescript, Linux.
   - 🚀 **2022 Goals:** AWS Certification.
-  - 💛 Meditation and Running
+  - 💛 Path of Exile, Meditation and Running
 
   You can find me on:
   <br/>
