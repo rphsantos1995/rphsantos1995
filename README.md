@@ -11,10 +11,10 @@
 </br>
 
   Sobre mim:
-  - 📜 Graduado em Engenharia de Produção
+  - 📜 Graduado em Engenharia de Produção.
   - 🌱 Atualmente trabalhando com: Node, Express, Typescript, Linux.
-  - 🚀 **Objetivos para 2022:** Certificação AWS - Cloud Practitioner.
-  - 💛 Path of Exile, Meditação e Corrida
+  - 🚀 **Objetivos para 2022:** Aprender mais sobre serviços AWS.
+  - 💛 Path of Exile, Meditação e Corrida.
 
   Contatos:
   <br/>
@@ -75,10 +75,10 @@
 </br>
 
   About me:
-  - 📜 Graduated in Production engineering
+  - 📜 Graduated in Production engineering.
   - 🌱 Currently working with: Node, Express, Typescript, Linux.
-  - 🚀 **2022 Goals:** AWS Certification - Cloud Practitioner
-  - 💛 Path of Exile, Meditation and Running
+  - 🚀 **2022 Goals:** Learn more about AWS services.
+  - 💛 Path of Exile, Meditation and Running.
 
   You can find me on:
   <br/>
