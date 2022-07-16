@@ -1,5 +1,74 @@
 
- <h2 align-text="center">I'm happy to see you here!</h2>
+<details>
+ <summary><strong>🇧🇷pt-BR</strong></summary>
+ 
+
+
+<h2 align-text="center">Feliz em receber sua visita!</h2>
+
+</h4>Meu nome é Raphael Pereira. Atualmente, moro no Rio de Janeiro.
+</br>
+</br>
+
+  Sobre mim:
+  - 📜 Graduado em Engenharia de Produção
+  - 🌱 Atualmente trabalhando com: Node, Express, Typescript, Linux.
+  - 🚀 **Objetivos para 2022:** Certificação AWS - Cloud Practitioner.
+  - 💛 Path of Exile, Meditação e Corrida
+
+  Contatos:
+  <br/>
+  <a href="https://stackoverflow.com/users/12899875/rphsantos?tab=profile" target="_blank"/>
+    <img src="https://img.shields.io/badge/stackOverFlow-informational?style=plastic&logo=Stack%20Overflow&logoColor=white&color=orange&labelColor=orange"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rphsantos7/" target="_blank"/>
+    <img src="https://img.shields.io/badge/Linkedin-informational?style=plastic&logo=LinkedIn&logoColor=white&color=blue&labelColor=blue"/>
+   </a>
+  <br/>
+  <a href="https://www.instagram.com/rphsantos7/" target="_blank"/>
+    <img src="https://img.shields.io/badge/Instagram-informational?style=plastic&logo=Instagram&logoColor=white&color=e4405f&labelColor=e4405f"/>
+  </a>
+  <a href="mailto:rph.santos@outlook.com?subject=[GitHub]" target="_blank"/>
+    <img src="https://img.shields.io/badge/Outlook-informational?style=plastic&logo=Microsoft Outlook&logoColor=white&color=0078D4&labelColor=0078D4"/>
+  </a>
+  <br>
+  <h2 align="center">⚙️ Ferramentas e Tecnologias 🔩</h2>
+
+  <div align="center">
+
+   ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=green&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/node-informational?style=flat-square&logo=Node.js&logoColor=green&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/mysql-informational?style=flat-square&logo=mysql&logoColor=blackblue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/typescript-informational?style=flat-square&logo=typescript&logoColor=blue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/squelize-informational?style=flat-square&logo=Sequelize&logoColor=blue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/prisma-informational?style=flat-square&logo=prisma&logoColor=white&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/mongodb-informational?style=flat-square&logo=mongodb&logoColor=lightgreen&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=Docker&logoColor=lightblue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/html-informational?style=flat-square&logo=html5&logoColor=orange&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/css-informational?style=flat-square&logo=css3&logoColor=blue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=purple&color=black&labelColor=black)  
+    ![](https://img.shields.io/badge/javascript-informational?style=flat-square&logo=javascript&logoColor=yellow&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/redux-informational?style=flat-square&logo=redux&logoColor=purple&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/react-informational?style=flat-square&logo=react&logoColor=lightblue&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=darkred&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/Puppeteer-informational?style=flat-square&logo=puppeteer&logoColor=oceangreen&color=black&labelColor=black)
+    ![](https://img.shields.io/badge/Mocha-informational?style=flat-square&logo=mocha&logoColor=lightbrown&color=black&labelColor=black)
+
+  </div>
+
+
+
+
+
+
+ 
+</details>
+
+
+<details>
+ <summary><strong>🇺🇸en-US</strong></summary>
+
+<h2 align-text="center">I'm happy to see you here!</h2>
 
 </h4>My name is Raphael Pereira. I'm located in Rio de Janeiro, Brazil.
 </br>
@@ -8,7 +77,7 @@
   About me:
   - 📜 Graduated in Production engineering
   - 🌱 Currently working with: Node, Express, Typescript, Linux.
-  - 🚀 **2022 Goals:** AWS Certification.
+  - 🚀 **2022 Goals:** AWS Certification - Cloud Practitioner
   - 💛 Path of Exile, Meditation and Running
 
   You can find me on:
@@ -52,6 +121,8 @@
     ![](https://img.shields.io/badge/Mocha-informational?style=flat-square&logo=mocha&logoColor=lightbrown&color=black&labelColor=black)
 
   </div>
+  
+</details>
 
   <h2 align="center">GitHub Stats</h2>
 
@@ -76,8 +147,4 @@
   </br>
 
 
-  <!--START_SECTION:waka-->
-
-  <!--END_SECTION:waka-->
-  
 
