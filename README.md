@@ -1,6 +1,6 @@
 
 <details>
- <summary><strong>🇧🇷pt-BR</strong></summary>
+ <summary><strong>pt-BR</strong></summary>
  
 
 
@@ -84,7 +84,7 @@
 
 
 <details>
- <summary><strong>🇺🇸en-US</strong></summary>
+ <summary><strong>en-US</strong></summary>
 
 <h2 align-text="center">I'm happy to see you here!</h2>
 
