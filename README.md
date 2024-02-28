@@ -12,8 +12,8 @@
 
   Sobre mim:
   - 📜 Graduando em Ciência da Computação - UFRJ.
-  - 🌱 Atualmente trabalhando com: Node, Express, Typescript, Linux.
-  - 🚀 **Objetivos para 2023:** Aprender mais sobre serviços AWS.
+  - 🌱 Atualmente desenvolvendo projetos com: Redes (pentesting), AWS, QEMU+KVM, C, Linux.
+  - 🚀 **Objetivos para 2024:** Cloud Practitioner e CyberSecurity essencials.
   - 💛 Path of Exile, Meditação e Corrida.
 
   Contatos:
@@ -94,8 +94,8 @@
 
   About me:
   - 📜 Computer Science student - UFRJ.
-  - 🌱 Currently working with: Node, Express, Typescript, Linux.
-  - 🚀 **2023 Goals:** Learn more about AWS services.
+  - 🌱 Currently developing projects with: Networks (pentesting), AWS, QEMU+KVM, C, Linux.
+  - 🚀 **2024 Goals:** Cloud Practitioner e CyberSecurity essencials.
   - 💛 Path of Exile, Meditation and Running.
 
   You can find me on:
