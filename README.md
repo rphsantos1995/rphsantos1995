@@ -13,7 +13,7 @@
   Sobre mim:
   - 📜 Graduando em Ciência da Computação - UFRJ.
   - 🌱 Atualmente desenvolvendo projetos com: Redes (pentesting), AWS, QEMU+KVM, C, Linux.
-  - 🚀 ** Próximos objetivos:** Cloud Practitioner e CyberSecurity essencials.
+  - 🚀 **Próximos objetivos:** Cloud Practitioner e CyberSecurity essencials.
   - 💛 Path of Exile, Meditação e Corrida.
 
   Contatos:
